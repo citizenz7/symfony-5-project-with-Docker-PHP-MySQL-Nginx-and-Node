@@ -1,4 +1,4 @@
-# Nginx PHP7 MySQL NodeJS Docker
+# Nginx PHP7 MySQL NodeJS Docker and Symfony 5
 
 Fast lightweight Docker network using PHP MySQL Nginx and Node
 
